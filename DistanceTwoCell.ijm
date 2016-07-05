@@ -1,7 +1,20 @@
 //Measures distance between two specific cells
 //Open the RGB csv file generated from betabow.ijm before running the macro.
-//Sumeet Pal Singh, 05 July, 2016
-//sumeetpalsingh@gmail.com
+
+//Copyright (C) 2016  Sumeet Pal Singh
+
+//This macro is free code: you can redistribute it and/or modify
+ //it under the terms of the GNU General Public License as published by
+//the Free Software Foundation, either version 3 of the License, or any later version.
+
+//This code is distributed in the hope that it will be useful,
+//but WITHOUT ANY WARRANTY; without even the implied warranty of
+//MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//GNU General Public License for more details: <http://www.gnu.org/licenses/>.
+
+//The code can be modified, distributed and sold without any strings attached. 
+//If you find the code useful, you can buy me coffee when we meet.
+//Find me at sumeetpalsingh@gmail.com or http://journalcoverage.blogspot.com/
 
 Dialog.create("Distance Parameters");
 Dialog.addMessage("Distance between cells");
