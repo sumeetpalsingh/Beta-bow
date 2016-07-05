@@ -11,7 +11,7 @@ Process_Folder_vol.ijm (Measures volume of complete islet for all files within a
 Process_Folder_Single_cell_Vol.ijm (Measures volume of single cells for all files within a folder)
 Betabow.ijm (Semi-supervized extraction of RGB data)
 TernaryPlot.ijm (Visualization of normalized RGB data)
-Pairwise_Equivalence.ijm (Clonal Anlysis)
+Equivalence.ijm (Clonal Anlysis)
 Backtrack.ijm (Helps locate a specific cell in the original image)
 DistanceTwoCell.ijm (Measures the distance between two specified cells)
 
