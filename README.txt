@@ -1,8 +1,8 @@
 ImageJ/Fiji plugins, macros and representative data set for analyzing beta-bow images
 
 The folder contains the following plugins:
-Color_Histogram (Evaluates RGB values for selected region)
-3d-oc_ (Evaulates volume)
+Color_Histogram.jar (Evaluates RGB values for selected region)
+3d-oc_.jar (Evaulates volume)
 
 Please download these two pulgins and save them in Fiji plugin folder (Fiji.app > plugins)
 
