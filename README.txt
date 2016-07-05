@@ -16,6 +16,4 @@ Backtrack.ijm (Helps locate a specific cell in the original image)
 DistanceTwoCell.ijm (Measures the distance between two specified cells)
 
 The folder contains the following representative images, along with the RGB data:
-3_5dpf.tif and 3_5dpf.csv (Betabow image and color signatures from 3.5 dpf islet) 
-15dpf.tif  and 15dpf.csv (Betabow image and color signatures from 3.5 dpf islet)
-30dpf.tif and 30dpf.csv (Betabow image and color signatures from 3.5 dpf islet)
+3_5dpf.tif and 3_5dpf.csv (Betabow image and color signatures from 3.5 dpf islet)
