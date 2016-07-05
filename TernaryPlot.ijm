@@ -4,6 +4,22 @@
 // Run macro.
 //Note: the macro only plots trichromatic cells!!
 
+//Original macro kindly provided by Xavier Morin (xavier.morin@ens.fr).
+//Copyright (C) 2016  Sumeet Pal Singh
+
+//This macro is free code: you can redistribute it and/or modify
+ //it under the terms of the GNU General Public License as published by
+//the Free Software Foundation, either version 3 of the License, or any later version.
+
+//This code is distributed in the hope that it will be useful,
+//but WITHOUT ANY WARRANTY; without even the implied warranty of
+//MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//GNU General Public License for more details: <http://www.gnu.org/licenses/>.
+
+//The code can be modified, distributed and sold without any strings attached. 
+//If you find the code useful, you can buy me coffee when we meet.
+//Find me at sumeetpalsingh@gmail.com or http://journalcoverage.blogspot.com/
+
 Dialog.create("ternary plot parameters");
 Dialog.addMessage("Plot size (pixels)");
 Dialog.addNumber(" axis length", 500);
